@@ -9,25 +9,22 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>propertyTileList</componentName>
+            <componentName>auraPropertyListMap</componentName>
         </componentInstances>
         <name>center</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
-            <componentName>daysOnMarket</componentName>
-        </componentInstances>
-        <componentInstances>
             <componentName>propertySummary</componentName>
         </componentInstances>
         <componentInstances>
-            <componentName>propertyMap</componentName>
+            <componentName>daysOnMarket</componentName>
         </componentInstances>
         <name>right</name>
         <type>Region</type>
     </flexiPageRegions>
-    <masterLabel>Property Explorer</masterLabel>
+    <masterLabel>Property Finder</masterLabel>
     <template>
         <name>pageTemplate_2_7_3</name>
     </template>
